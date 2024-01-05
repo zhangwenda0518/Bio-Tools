@@ -1,0 +1,427 @@
+名称
+功能
+多个物种之间的直向同源物
+https://github.com/conJUSTover/pSONIC
+端粒长度计算
+https://github.com/lilit-nersisyan/computel
+补gap
+https://github.com/Dfupa/PGcloser_V1.1
+用于手动管理转座元件共有序列的注释辅助工具
+https://github.com/clemgoub/TE-Aid
+建树
+https://github.com/BenoitMorel/GeneRax
+祖先序列重建
+https://github.com/shognakano/MAFFT2ASR
+糖代谢数据库
+https://github.com/linnabrown/run_dbcan
+端粒统计
+https://github.com/Veliborka/telomerehunter
+计算端粒长度
+https://github.com/zd1/telseq
+用于量化散布重复表达的软件
+https://github.com/wyang17/SQuIRE
+用于可视化包含串联重复区域中的读数比对的工具
+https://github.com/Illumina/REViewer
+植物图像绘制
+https://github.com/leonardojo/ggPlantmap
+基因家族注释工具
+https://github.com/IAndreu/Gene-annotation-pipeline
+https://github.com/kfuku52/RADTE
+比较基因组流程
+https://github.com/jeffersonfparil/compare_genomes
+
+https://github.com/slimsuite/buscomp
+tree2gd识别wgd
+Dee-chen/Tree2gd (github.com)
+ks计算
+https://github.com/VIB-PSB/ksrates
+比较植物基因组学的自动化基因家族分析管道的集合
+https://github.com/dePamphilis/PlantTribes
+TRASH：串联重复注释和结构层次
+https://github.com/vlothec/TRASH
+transXpress：用于简化从头转录组组装和注释的 Snakemake 管道
+https://github.com/transXpress/transXpress
+文献下载
+https://github.com/petermr/pygetpapers
+Synteny and Rearrangement
+https://github.com/schneebergerlab/syri
+Simple terminal alignment viewer
+https://github.com/jakobnissen/alen
+A nextflow pipeline for decontamination of short reads, long reads and contigs
+https://github.com/hoelzer/clean
+RNArtist allows you to design your RNA 2D structures interactively. To help you to be an RNArtist, this tool provides numerous graphical options to find your theme and to modify the 2D layout.
+https://github.com/fjossinet/RNArtist
+parallel fastq-dump wrapper
+https://github.com/rvalieris/parallel-fastq-dump
+Fix sequence files files for NCBI submission based on contamination reports
+https://github.com/shodhak/deContaminateR
+
+https://github.com/arnav-upadhyay/Deleting_adapters_in_genomic_reads
+Genome-wide detection of positive selection
+https://github.com/ctlab/GScour
+
+Remove contaminated contigs from genomes using k-mers and taxonomies.
+功能
+链接
+文献下载
+https://github.com/petermr/pygetpapers
+Synteny and Rearrangement
+https://github.com/schneebergerlab/syri
+序列比对可视化
+https://github.com/jakobnissen/alen
+A nextflow pipeline for decontamination of short reads, long reads and contigs
+https://github.com/hoelzer/clean
+绘制RNA二级结构
+https://github.com/fjossinet/RNArtist
+parallel fastq-dump wrapper
+https://github.com/rvalieris/parallel-fastq-dump
+Fix sequence files files for NCBI submission based on contamination reports
+https://github.com/shodhak/deContaminateR
+基于 NCBI 策展人污染文件删除基因组污染（适配器，DNA）的 Python 代码
+
+https://github.com/arnav-upadhyay/Deleting_adapters_in_genomic_reads
+正选择基因分析
+https://github.com/ctlab/GScour
+使用 k-mers 和分类法从基因组中去除受污染的重叠群。
+https://github.com/dib-lab/charcoal
+用于比较基因组学的基因组可视化 python 包
+https://github.com/moshi4/pyGenomeViz/
+查找和对齐序列的相关区域
+https://gitlab.com/mcfrith/last
+gget 可以直接在 Python 或终端编程环境中高效查询基因组数据库，例如 Ensembl、UniProt、NCBI。它旨在支持基因组数据分析。
+https://github.com/pachterlab/gget
+用于可视化两个或多个带注释的基因组组件之间的同线性
+https://github.com/rhysf/Synima
+RAxML-NG 是一种系统发育树推理工具，它使用最大似然 (ML) 最优性准则。
+https://github.com/amkozlov/raxml-ng
+TransposonUltimate - 一套用于转座子识别的整体工具
+https://github.com/DerKevinRiehl/TransposonUltimate
+R包以3种不同风格绘制同线图
+https://github.com/marta-fb/syntenyPlotteR
+在 R 中使用纯基础图形绘制漂亮的图
+https://github.com/PoisonAlien/basegraphics
+根据覆盖度随机取样测序数据
+https://github.com/mbhall88/rasusa
+随机取样测序数据
+https://bitbucket.org/CatchenLab/scripts_contig_replacement_repo/src/master/sample_reads.py
+ncbi--SRA下载
+https://github.com/louiejtaylor/grabseqs
+植物短散在重复序列分析注释
+https://github.com/yangli557/AnnoSINE
+用于注释未组装序列读取的转座因子家族的工具包
+https://github.com/sestaton/Transposome
+绘制 Kraken2 结果 ( Krona)
+https://github.com/marbl/Krona/wiki
+水平基因转移
+https://github.com/yuzhenpeng/hgtseq
+水平基因转移 (HGT) 检测
+http://github.com/ktrappe/daisy
+基于一组参考 BUSCO 基因作为标记，分配祖先连锁单位和/或识别鳞翅目染色体中融合/裂变事件的工具
+https://github.com/charlottewright/lep_fusion_fission_finder
+显示多基因组同线性的任何方式
+https://github.com/hewm2008/NGenomeSyn
+祖先基因顺序重建算法
+https://github.com/DyogenIBENS/Agora
+单个基因正选择检测和重组分析流水线
+https://github.com/hoelzer/poseidon
+用于在基因组草图中识别（编码）基因结构的管道。
+https://github.com/nf-core/genomeannotator
+成对对齐断点分析
+https://github.com/oist/GenomicBreaks
+TransposonUltimate - 一套用于转座子识别的整体工具
+https://github.com/DerKevinRiehl/TransposonUltimate
+PHACT, PH ylogeny- A ware C omutation of T olerance（用于氨基酸取代），是一个基于 Snakemake 工作流程的计算框架，用于预测错义突变的功能影响。
+https://github.com/CompGenomeLab/PHACT
+GenomeSyn 作为构建和可视化基因组同线性的新工具，其新颖的设计和实现可以作为研究基因组同线性和结构变异及其可视化工具的必要补充
+https://github.com/jmsong2/GenomeSyn
+false duplication and false gene gain research for VGP assemblies.
+https://github.com/KoByungJune/FalseDuplication
+具有增强着色和标签的可出版火山图
+https://github.com/kevinblighe/EnhancedVolcano
+BITACORA：基因家族注释的生物信息学工具
+https://github.com/molevol-ub/bitacora
+从测序读数推断物种树的工具
+https://github.com/DessimozLab/read2tree
+快速的基于同源蛋白的预测软件
+https://github.com/guigolab/geneidx
+优于transdecoder的转录本预测程序
+https://github.com/anonconda/TranSuite
+长末端重复逆转录转座子的系统发育分析
+https://github.com/mcsimenc/PhyLTR
+用于 HiFi 读取的 K-mer 分类器
+https://github.com/yoshihikosuzuki/ClassPro
+评估基因组组装
+https://github.com/mobinasri/flagger
+使用二级比对进行定相读取
+https://github.com/mobinasri/secphase
+从原始读数自动化植物细胞器组装。
+https://github.com/tolkit/plant-organellome-assembly
+短读矫正工具
+https://github.com/rrwick/Polypolish
+使用直系同源区域的染色体水平同线图
+https://github.com/slimsuite/chromsyn
+倍型鉴定(需要参考基因组)
+https://github.com/clwgg/nQuire
+宏基因组去重复
+https://github.com/MrOlm/drep
+sra数据下载
+https://github.com/ewels/sra-explorer#alternatives
+sra数据下载
+https://github.com/nf-core/fetchngs
+sra数据下载
+https://github.com/saketkc/pysradb
+sra数据下载
+https://github.com/pachterlab/ffq
+nanopore的组装流程
+https://github.com/HughCottingham/clinopore-nf
+gff3 注释文件转换为 EMBL 格式
+https://github.com/NBISweden/EMBLmyGFF3
+生成一个 NCBI .tbl 基因组注释文件
+https://github.com/genomeannotation/GAG
+两个物种比较工具
+https://github.com/kaede0e/two-species-genome-comparison-pipeline
+这是一个 R 包，旨在分析两个物种之间的功能富集结果（基因及其直系同源物列表）
+https://github.com/ccsosa/GOCompare
+使用 GO-terms 或通路获得基因表达簇的富集
+https://github.com/ShiuLab/GO-term-enrichment
+检测基因渐渗的方法
+https://github.com/YingDings/Introgression-Detection-Methods
+全基因组比对加速工具
+https://github.com/jnarayan81/parallelLastz
+基因预测工具
+https://github.com/institut-de-genomique/Gmove
+植物次生代谢基因簇预测
+GitHub - carnegie/PlantClusterFinder
+分型组装打分评估
+https://github.com/skingan/score_phase
+一种用于准确系统基因组推断的多序列比对修整算法
+https://github.com/JLSteenwyk/ClipKIT
+kmer分析
+https://github.com/KamilSJaron/oh-know/wiki/other-k-mer-resources
+假基因预测管道
+pipeline for pseudogene prediction and analysis
+https://github.com/mosilab/pseudopipe
+终止密码子检查
+https://github.com/linzhi2013/polish_genbank
+倍型推断
+https://github.com/CMB-BNU/PloidyFrost
+Identify problems with predicted genes
+https://github.com/wurmlab/genevalidator
+用于批量 RNA-seq DEA 的 DESeq2 管道的 Python 实现
+https://github.com/owkin/PyDESeq2
+SV 调用二倍体组件
+https://github.com/KolmogorovLab/hapdiff
+分离二倍体组装
+https://github.com/RolandFaure/Hairsplitter
+比对重复区域
+https://github.com/marbl/Winnowmap
+制作核苷酸频率图
+https://github.com/mrvollger/NucFreq
+cdhit结果解析
+https://github.com/telatin/cdhit-parser
+gfa格式转换与信息统计
+https://github.com/vgl-hub/gfastats
+减少 Althaps 和重复重叠群以改进 Hi-C 支架
+https://github.com/esolares/HapSolo
+rna-seq-star-deseq2
+https://github.com/snakemake-workflows/rna-seq-star-deseq2
+ncbi污染检查
+https://github.com/ncbi/fcs
+富集分析
+https://github.com/hamidghaedi/Enrichment-Analysis
+真核注释管道
+https://github.com/EI-CoreBioinformatics/reat
+整合注释管道
+https://github.com/EI-CoreBioinformatics/minos
+重复序列注释
+https://github.com/EI-CoreBioinformatics/eirepeat
+注释流程
+https://github.com/zhangwenda0518/annotation-workshop-2022
+识别基因重排
+https://github.com/rhysf/HaplotypeTools
+使用 Hi-C reads 构建基因组组装
+https://github.com/WarrenLab/hic-scaffolding-nf
+真菌注释管道
+https://github.com/sagnikbanerjee15/fungal_genome_assemblies_and_annotation
+真菌注释管道
+https://github.com/couldbewoese/funannotate_script
+gap填补（illumina）
+https://github.com/rikuu/Gap2Seq/
+HiC_Genome_Assembler
+https://github.com/AO33/HiC_Genome_Assembler
+加速cp与MD5sum
+https://github.com/pkolano/mutil
+番茄红素环化酶基因家族的发育脚本
+https://github.com/bpucker/lycocyc
+补gap
+https://github.com/bpucker/LongReadWalker
+cafe5可视化
+https://github.com/moshi4/CafePlotter
+使用 DTL(Duplication-Transfer-Loss) 协调方法的全基因组基因增益/损失映射工具
+https://github.com/moshi4/FastDTLmapper
+gff转gtf
+https://github.com/NBISweden/GAAS/blob/master/annotation/knowledge/gff_to_gtf.md
+生信脚本
+https://github.com/NBISweden/GAAS
+转录组分析脚本
+https://github.com/UCDBatLab/Longitudinal_myoMyo_transcriptome
+Circoletto可视化Blast结果
+http://tools.bat.infspire.org/circoletto/
+重复序列分析的docker镜像
+https://github.com/Dfam-consortium/TETools
+估算基因组大小
+https://github.com/institut-de-genomique/LocoGSE
+端粒数据库
+https://github.com/tolkit/a-telomeric-repeat-database
+端粒查询
+https://github.com/tolkit/telomeric-identifier
+端粒查询
+https://github.com/jamiemcg/TelomereSearch
+端粒查询
+https://github.com/jallen73/TeloID
+并行加速paml
+https://github.com/RetroWWU/paPAML
+fastqc的C语言实现，速度更快
+https://github.com/smithlabcode/falco
+长度长的叶绿体组装工具
+https://github.com/Bean061/ptgaul
+基因组注释
+https://github.com/NBISweden/pipelines-nextflow
+基因组注释
+https://github.com/harvardinformatics/GenomeAnnotation
+基因组注释管道
+https://github.com/nf-core/genomeannotator
+MYB注释
+https://github.com/bpucker/MYB_annotator
+基因组注释
+https://github.com/enormandeau/gawn
+基因组注释
+https://github.com/PGSB-HMGU/plant.annot
+基因组注释
+https://github.com/SCC-LZU/LGAflow
+hic工具
+https://github.com/XuanCao-CX/HiCAT
+基因组注释
+https://github.com/baozg/assembly-annotation-pipeline
+使用全基因组测序分析直系与旁系同源基因
+https://github.com/tprodanov/parascopy
+绘制GO
+https://github.com/IrinaVKuznetsova/CirGO
+基因组注释
+https://github.com/reslp/annocomba
+多个有用的开发集合
+https://github.com/slimsuite
+污染检查
+https://github.com/StevenWingett/FastQ-Screen
+使用orthofinder 和 fastcodeml 预测正交群并找到正选择模式的 Snakemake 项目
+https://github.com/jlanga/smsk_selection
+处理 antiSMASH 和 BiG-SCAPE 结果的脚本
+https://github.com/sandragodinhosilva/bgc-analysis
+交互式多尺度可视化工具，可让您探索 McScanX 的结果，这是一种流行的同线性和共线性检测工具包
+https://github.com/kiranbandi/synvisio
+基因簇比较图生成器
+https://github.com/gamcil/clinker
+circos的在线操作
+https://github.com/YaoLab-Bioinfo/shinyCircos
+
+https://venyao.xyz/shinyCircos/
+寄生植物的基因转移
+https://github.com/dePamphilis/Cuscuta_HGT_ms_code
+多组学绘制，如hic
+https://github.com/PhanstielLab/plotgardener
+这是一个使用 MAFFT、PhyML 和 PAML 连续分析氨基酸序列（fasta 格式）并以全自动方式输出祖先序列的脚本
+https://github.com/shognakano/MAFFT2ASR
+NLR抗病基因挖掘
+https://github.com/steuernb/NLR-Annotator
+使用miniport进行busco评估
+https://github.com/huangnengCSU/minibusco
+装配评估
+https://github.com/mrmrwinter/asmapp
+并行加速paml
+https://github.com/RetroWWU/paPAML
+多种差异分析方式
+https://github.com/thiesgehrmann/multidiffabundance
+宏基因组多组学分析平台
+https://github.com/merenlab/anvio
+hic-pro结果解析
+https://github.com/ningbioinfo/HiC-QC
+
+https://github.com/ningbioinfo/HiCvisualisation
+LTR插入时间计算
+https://github.com/wangziwei08/LTR-insertion-time-estimation
+基因组轨迹图
+https://github.com/deeptools/pyGenomeTracks
+比较转录组分析
+https://github.com/csoderlund/TCW
+叶绿体组装与构象选择
+https://github.com/wpwupingwp/novowrap
+叶绿体组装
+https://github.com/quxiaojian/OGA
+从浅层测序或者转录组数据中获得叶绿体和线粒体数据
+https://github.com/quxiaojian/get_cp_and_mt_genes_from_contigs_of_genome-skimming_or_transcriptome_data
+共线性绘图
+https://github.com/marta-fb/syntenyPlotteR
+相关性绘图
+https://github.com/hannet91/ggcor
+orthofinder工具
+https://github.com/MrTomRod/orthofinder-tools
+将批量和伪批量转录组学引入 tidyverse
+https://github.com/stemangiola/tidybulk
+https://github.com/mikelove/tximport
+导入和总结基因水平分析的转录水平估计
+
+https://github.com/mikelove/tximeta
+可视化
+https://github.com/lkiko/famCircle
+脚本
+https://github.com/Axolotl233/Simple_Script
+整合直系同源寻找结果
+https://github.com/TelfordLab/OrthoMerge
+从 orthofinder 到 cdd 注释
+https://github.com/evolbeginner/ortho2cdd
+转录组比对基因
+https://github.com/PeterMulhair/RNAseq_mapping
+从Fasta到Codeml一步到位：傻瓜式正选择分析
+https://github.com/chenyangkang/Fasta2Codeml
+一种用于准确系统基因组推断的多序列比对修剪算法
+https://github.com/JLSteenwyk/ClipKIT
+端粒预测和基因组组装编辑工具
+https://github.com/slimsuite/telociraptor
+线粒体组装
+https://github.com/hwc2021/GSAT
+植物GO注释
+https://github.com/Dill-PICL/GOMAP-singularity
+基因组大小预测
+https://github.com/slimsuite/depthsizer
+可以使用替代率调整的混合旁系同源-直系同源 Ks 分布来定位相对于物种形成事件的全基因组重复。
+https://github.com/VIB-PSB/ksrates
+发现融合转录本
+https://github.com/Oshlack/JAFFA
+
+https://github.com/FemeniasM/ExplorATEproject
+转录本分析管道， TransPi——用于从头转录组组装的综合转录组分析管道
+https://github.com/PalMuc/TransPi
+dnaPipeTE（用于转座元件的从头组装和注释管道）是一种旨在在 NGS 数据集的小样本中查找、注释和量化转座元件的管道。量化 TE 在新测序基因组中的比例非常有用，因为它不需要基因组组装并且适用于小数据集 (< 1X)
+https://github.com/clemgoub/dnaPipeTE
+使用 dnaPipeTE 1.3 执行多个下游分析的脚本集合
+https://github.com/clemgoub/dnaPT_utils
+计算基因组中所有基因转座因子密度的 Python 脚本。
+https://github.com/sjteresi/TE_Density
+De novo annotation of young retrotransposons
+https://github.com/HajkD/LTRpred
+分析单核苷酸多态性 (SNP) 基因型的 R 包，包含最基本的统计数据，包括成对 LD、高斯滑动窗口分析工具、绘图选项、聚类分析、菌落界面、Ne 估计、格式化、过滤等！
+https://github.com/hemstrow/snpR
+一种发现转座因子和描述基因组进化模式的工具
+https://github.com/sestaton/tephra
+使用基因树测试 WGD 沿物种树的放置。
+https://github.com/mrmckain/PUG
+bHLH基因家族
+https://github.com/bpucker/bHLH_annotator
+序列比对工具包
+https://github.com/dportik/SuperCRUNCH
+ssr寻找
+https://github.com/aaranyue/SSR2Marker
+抛光
+https://github.com/kensung-lab/hypo
+变异位点比较工具
+https://github.com/bioinformatics-ua/GDI_Pipeline
